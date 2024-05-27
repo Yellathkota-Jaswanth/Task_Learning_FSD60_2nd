@@ -1,2 +1,14 @@
 git config --list
 
+create a repository in git
+
+clone it in local > got to terminal >git clone "link"
+
+open the cloned file with vs code or text editor
+
+terminal >
+
+
+git add .
+git commit -m " sample"
+git push
